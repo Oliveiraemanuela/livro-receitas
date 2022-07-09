@@ -1,3 +1,3 @@
-<h1> Receitas da Manu <h1>
+<h1> Receitas da Manu
    - Feijoada
    - Strogonoff
